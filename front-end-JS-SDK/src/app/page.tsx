@@ -1,5 +1,5 @@
 "use client"
-import {useState } from "react"
+import {useState} from "react"
 import styles from "./page.module.css"
 import TransgateConnect from "@zkpass/transgate-js-sdk"
 import styled from "styled-components"
